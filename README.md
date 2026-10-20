@@ -38,3 +38,14 @@ I have **12 years** of experience designing and building **AI platforms, backend
 ### 📫 Connect
 
 📧 [Email](mailto:joalbert.guillermo33@outlook.com) · 💼 [LinkedIn](https://www.linkedin.com/in/joalbert-guillermo-software/) · 📍 Lawrence, MA
+
+---
+
+> [!IMPORTANT]
+> ### 🔒 Why Are All My Repositories Private?
+>
+> As I am currently **transitioning to a new career path**, I have recently changed all my GitHub repositories from public to private out of respect for **my previous employers' policies, confidentiality agreements, intellectual property rights, and cybersecurity standards**.
+>
+> This decision reflects my commitment to **professional integrity, data protection, cybersecurity, and responsible software engineering**, while minimizing potential security risks and unauthorized access.
+>
+> As I move forward in my career, my portfolio will continue to highlight my **technical skills, professional experience, and project contributions** while respecting organizational confidentiality and security policies.
